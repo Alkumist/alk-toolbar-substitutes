@@ -1,0 +1,21 @@
+{
+	"name": "alk-toolbar-substitutes",
+	"version": "1.0.0",
+	"title": "Toolbar icon substitutes",
+	"author": "Alkumist",
+	"contact": "",
+	"homepage": "",
+	"description": "changes some icons",
+	"factorio_version": "2.0",
+	"dependencies": [
+		"base >= 2.0",
+		"(?)coloured-tool-icons"
+	],
+	"quality_required": false,
+	"rail_bridges_required": false,
+	"space_travel_required": false,
+	"spoiling_required": false,
+	"freezing_required": false,
+	"segmented_units_required": false,
+	"expansion_shaders_required": false
+}
