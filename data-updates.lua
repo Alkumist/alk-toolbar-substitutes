@@ -17,6 +17,4 @@ data.raw.shortcut["give-green-wire"].small_icon									=		"__base__/graphics/ic
 ------------------------------------------ Recolor Drag Select
 data.raw.shortcut["copy"].style = "blue"
 data.raw["copy-paste-tool"]["copy-paste-tool"].alt_select["border_color"] = {57, 156, 251}
-data.raw["copy-paste-tool"]["copy-paste-tool"].auto_recycle = false
-data.raw["copy-paste-tool"]["cut-paste-tool"].auto_recycle = false
 data.raw["utility-sprites"].default["down_arrow"].filename = "__alk-toolbar-substitutes__/graphics/down-arrow.png"
